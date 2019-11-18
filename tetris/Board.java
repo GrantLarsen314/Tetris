@@ -1,4 +1,4 @@
-//Grant Larsen, Ethan Jett, and Ben Hunt
+//Grant Nicholas Larsen, Ethan Kenneth Jett, and Ben Hunt
 
 package tetris; 
 
