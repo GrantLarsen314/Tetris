@@ -1,3 +1,8 @@
+/************************************************
+By Ben Hunt, Ethan Jett, and Grant Larsen
+
+************************************************/
+
 package tetris; 
 
 import java.util.Random;
